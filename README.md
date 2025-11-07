@@ -57,7 +57,7 @@ Live Demo: https://full-stack-timestamp-microservice-f.vercel.app
    ```
    npm init -y
    ```
-3. Start in [loca](http://localhost:3000)
+3. Start in http://localhost:3000
    ```
    npm start
    ```
