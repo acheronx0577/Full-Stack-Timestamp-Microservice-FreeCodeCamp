@@ -46,8 +46,14 @@ Live Demo: https://full-stack-timestamp-microservice-f.vercel.app
 
 ## Installation
 
-1. Clone the repository
-2. Install dependencies:
+1. Clone the repository:
+   ```
+   git clone git@github.com:acheronx0577/Full-Stack-Timestamp-Microservice-FreeCodeCamp.git
+   ```
+   ```
+   cd Full-Stack-Timestamp-Microservice-FreeCodeCamp
+   ```
+3. Install dependencies:
    ```
    npm install
    ```
@@ -57,7 +63,7 @@ Live Demo: https://full-stack-timestamp-microservice-f.vercel.app
    ```
    npm init -y
    ```
-3. Start in http://localhost:3000
+4. Start in http://localhost:3000
    ```
    npm start
    ```
