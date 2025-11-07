@@ -15,7 +15,7 @@ const footerStatus = document.getElementById('footer-status');
 const uptimeElement = document.getElementById('uptime');
 const requestsCountElement = document.getElementById('requests-count');
 
-// State
+// States
 let requestHistory = [];
 let requestsCount = 0;
 let startTime = new Date();
