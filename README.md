@@ -61,3 +61,16 @@ Live Demo: https://full-stack-timestamp-microservice-f.vercel.app
    ```
    npm start
    ```
+
+---
+
+## 🤝 Contributing
+
+Fork the repo and submit PRs for:
+- New sorting algorithms
+- Visual enhancements
+- Performance improvements
+
+---
+
+*Built with ❤️ through freeCodeCamp | learning interactive!*
