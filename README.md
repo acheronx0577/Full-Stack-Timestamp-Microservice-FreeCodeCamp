@@ -6,7 +6,7 @@ A full-stack timestamp microservice built with Node.js/Express backend and a ter
 
 ## 🎓 Certification
 
-**Course:** [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/#basic-node-and-express)
+**Course:** [FreeCodeCamp Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/#basic-node-and-express)
 
 **Complete Your Certificate:**
 - ✅ This project (Timestamp Microservice) fulfills one requirement
