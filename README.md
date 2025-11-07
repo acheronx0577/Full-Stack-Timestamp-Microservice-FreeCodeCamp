@@ -11,7 +11,7 @@ A full-stack timestamp microservice built with Node.js/Express backend and a ter
 **Complete Your Certificate:**
 - ✅ This project (Timestamp Microservice) fulfills one requirement
 
-**Full Project Suite:** [5 back-end projects from Timestamp Microservice to Final Certification Projects](https://github.com/freeCodeCamp/freeCodeCamp)
+**Full Project Suite:** [5 back-end projects from Timestamp Microservice to Final Certification Projects](https://github.com/acheronx0577/Back-End-Development-and-APIs)
 - 🎓 Complete all projects to earn your certification
 
 This repository contains one of the portfolio projects needed to demonstrate back-end development proficiency and earn the freeCodeCamp certificate.
