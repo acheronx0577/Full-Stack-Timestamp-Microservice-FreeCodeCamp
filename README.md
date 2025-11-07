@@ -13,6 +13,16 @@ A full-stack timestamp microservice built with Node.js/Express backend and a ter
 🎓 [Complete all projects to earn your certification](https://www.freecodecamp.org/learn/back-end-development-and-apis/#basic-node-and-express)  
 This repository contains one of the portfolio projects needed to demonstrate back-end development proficiency and earn the freeCodeCamp certificate.
 
+---
+
+## 📸 Application Preview
+
+<img width="1152" height="969" alt="image" src="https://github.com/user-attachments/assets/f514ffbb-9433-41dc-9a50-48f8956e6a0d" />
+
+Live Demo: https://full-stack-timestamp-microservice-f.vercel.app
+
+---
+
 ## Features
 
 - **RESTful API** - Convert dates to Unix timestamps and UTC strings
